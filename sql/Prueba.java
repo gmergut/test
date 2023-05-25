@@ -9,6 +9,7 @@ import java.sql.SQLException;
 
 public class Prueba {
 
+	//comentario de prueba para push desde otra cuenta de github
 	public static void main(String[] args) {
 		String url="jdbc:mysql://localhost:3306/classicmodels?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8";
 		String usuario="root";
